@@ -22,6 +22,6 @@ class UserModel implements UserRepository
     public function queryData()
     {
         // TODO: Implement queryData() method.
-        return $this->userModel->queryData();
+        // return $this->userModel->queryData();
     }
 }
